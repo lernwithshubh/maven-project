@@ -1,3 +1,3 @@
-# maven-project
+# maven-project-valaxy
 
 Simple Maven Project
