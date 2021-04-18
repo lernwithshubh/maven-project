@@ -1,3 +1,2 @@
-# maven-project-valaxy
-
-Simple Maven Project
+# maven-project
+This is a maven project using java code
