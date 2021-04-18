@@ -1,3 +1,18 @@
-<h1> Docker Versioning is successful </h1>
-<h2> test </h2>
-<h3> test2 </h3>
+<html>
+<body>
+<h2>Welcome</h2>
+
+<form action="welcome.jsp" method="get">
+
+Enter username: <input type="text" name="uname" />
+<br/>
+<br/>
+Enter numbr for mulitplication tables: <input type="text" name="number" />
+<br/>
+<br/>
+<input type="submit"/>
+<br/>
+<br/>
+<p>&copy 2016 Preetham</p>
+</body>
+</html>
