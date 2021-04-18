@@ -7,12 +7,12 @@
 Enter username: <input type="text" name="uname" />
 <br/>
 <br/>
-Enter numbr for mulitplication tables: <input type="text" name="number" />
+Enter number for multiplication tables: <input type="text" name="number" />
 <br/>
 <br/>
 <input type="submit"/>
 <br/>
 <br/>
-<p>&copy 2016 Preetham</p>
+<p>&copy 2021 Bhavu</p>
 </body>
 </html>
