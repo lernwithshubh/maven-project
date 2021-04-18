@@ -7,7 +7,7 @@
 Enter username: <input type="text" name="uname" />
 <br/>
 <br/>
-Enter number for multiplication tables: <input type="text" name="number" />
+Enter number of multiplication tables: <input type="text" name="number" />
 <br/>
 <br/>
 <input type="submit"/>
