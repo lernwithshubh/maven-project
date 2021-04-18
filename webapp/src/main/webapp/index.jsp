@@ -13,6 +13,6 @@ Enter number for multiplication tables: <input type="text" name="number" />
 <input type="submit"/>
 <br/>
 <br/>
-<p>&copy 2021 Bhavu</p>
+<p>&copy 2021 Bhavuk</p>
 </body>
 </html>
