@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Welcome All participants</h2>
+<h2>Welcome</h2>
 
 <form action="welcome.jsp" method="get">
 
